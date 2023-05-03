@@ -1,5 +1,5 @@
 # Eye_diseases
-PyQT application with neural network in tensorflow to detect and classify eye diseases(cataract, retino, glaucoma). It is written to Nauryz meetings 2023, Astana. Section 5, analysis of medical images. The neural network is in Nauryz.ipynb file, while the interface and logic of app is located in PyQT.ipynb.
+PyQT application with neural network in tensorflow to detect and classify eye diseases(cataract, retino, glaucoma). It is written to Nauryz meetings 2023, Astana. Section 5, analysis of medical images. The neural network is in Infomatrix.ipynb file, while the interface and logic of app is located in PyQT.ipynb.
 
 ![image](https://user-images.githubusercontent.com/84804200/225414364-84f36d77-7954-4b59-affb-1484ce5b882e.png)
 
